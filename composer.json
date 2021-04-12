@@ -1,0 +1,24 @@
+{
+  "name": "swinde/toparticles",
+  "description": "Anzahl der Topseller erh&ouml;hen",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "eShop"],
+  "homepage": "",
+  "license": [
+    "GPL-3.0-only",
+    "proprietary"
+  ],
+  "extra": {
+    "oxideshop": {
+      "blacklist-filter": [
+        "documentation/**/*.*"
+      ],
+      "target-directory": "swinde/toparticles"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Swinde\\TopArticles\\": "../../../source/modules/swinde/toparticles"
+    }
+  }
+}
