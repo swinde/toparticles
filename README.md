@@ -1,6 +1,6 @@
 # .BEES | Anzahl der Topseller erhöhen
 
-**Shopversion:** OXID eShop 6
+**Shopversion:** OXID eShop 6  
 **Installation**
 
 `composer require --no-scripts --update-no-dev --no-interaction --optimize-autoloader swinde/toparticles`
