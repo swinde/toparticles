@@ -2,7 +2,8 @@
 
 
 namespace Swinde\TopArticles\Model;
-use \OxidEsales\Eshop\Application\Model\ArticleList;
+use oxRegistry;
+use OxidEsales\Eshop\Core\Registry;
 
 class SwArticleList extends SwArticleList_parent
 {
