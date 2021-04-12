@@ -1,11 +1,11 @@
 # .BEES | Anzahl der Topseller erhöhen
 
-**Shopversion:** OXID eShop 6  
-**Installation**
+**Shopversion:** OXID eShop 6    
+**Installation:**
 
 `composer require --no-scripts --update-no-dev --no-interaction --optimize-autoloader swinde/toparticles`
 
-**License**
+**License:**
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
